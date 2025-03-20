@@ -1,0 +1,6 @@
+.vscode
+.idea
+output
+config.json
+menv
+metadata_extraction.log
