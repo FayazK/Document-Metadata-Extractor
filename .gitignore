@@ -3,6 +3,4 @@ output
 config.json
 menv
 metadata_extraction.log
-temp_auto_push.bat
-temp_interactive_push.bat
 .gitignore
